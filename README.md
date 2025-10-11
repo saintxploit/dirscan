@@ -14,14 +14,13 @@
 - Simpel: Single target & Mass scan modes
 - Outputs: per-target `.json` & `.txt` (only found), plus aggregated `results.txt` with separators
 
-## Install
+## Install & Run
 ```bash
-git clone https://github.com/youruser/path-scanner.git
-cd path-scanner
-pip install aiohttp tqdm requests
+- git clone https://github.com/youruser/path-scanner.git
+- cd path-scanner
+- pip install aiohttp tqdm requests
 
-## Run
-python scanner.py
+- python scanner.py
 # pilih:
 # 1) Single target
 # 2) Mass scanner (file of URLs)
