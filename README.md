@@ -1,4 +1,4 @@
-# path-scanner
+# DIRSEARCH by Raymond7
 [![Python](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/license-MIT-green)]
 
