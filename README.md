@@ -1,3 +1,6 @@
+![Uploading image.png…]()
+
+
 # DIRSEARCH by Raymond7
 [![Python](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/license-MIT-green)]
@@ -19,8 +22,4 @@
 - git clone https://github.com/youruser/path-scanner.git
 - cd path-scanner
 - pip install aiohttp tqdm requests
-
 - python scanner.py
-# pilih:
-# 1) Single target
-# 2) Mass scanner (file of URLs)
